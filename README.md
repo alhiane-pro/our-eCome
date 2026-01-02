@@ -68,6 +68,7 @@ A modern, type-safe eCommerce platform built with **React 19**, **TypeScript**, 
 
 ```bash
 git clone https://github.com/alhiane-pro/our-eCome.git
+
 cd our-eCome
 ```
 
@@ -77,25 +78,29 @@ Open terminal:
 
 ```bash
 cd eCommerce-backend
+
 npm install
+
 npm start
 ```
 
 The mock server will start on http://localhost:3000.
 
-### 2. Setup the Frontend
+### 3. Setup the Frontend
 
 Open a new terminal:
 
 ```bash
 cd eCommerce-frontend
+
 npm install
+
 npm run dev
 ```
 
 The application will be available at http://localhost:5173.
 
-### 3. 🧪 Testing & Linting
+### 4. 🧪 Testing & Linting
 
 To run the unit and component tests:
 
