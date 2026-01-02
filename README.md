@@ -18,8 +18,6 @@ A modern, type-safe eCommerce platform built with **React 19**, **TypeScript**, 
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
