@@ -1,0 +1,57 @@
+.table {
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+.trow {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  column-gap: 0.35em;
+  padding: 0.35em;
+  display: flex;
+}
+
+.tcell {
+  width: 33.6666667%;
+  padding: 0.625em;
+  height: 40px;
+}
+
+@media screen and (max-width: 1024px) {
+  .table {
+    border: 0;
+  }
+
+  .thead {
+    display: none;
+  }
+
+  .trow {
+    border-bottom-width: 3px;
+    margin-bottom: 0.625em;
+    display: block;
+  }
+
+  .trow:last-child {
+    margin-bottom: 0;
+  }
+
+  .tcell {
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: 0.8em;
+    text-align: right;
+  }
+
+  .tcell:last-child {
+    border-bottom: 0;
+  }
+
+  .tcell::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}

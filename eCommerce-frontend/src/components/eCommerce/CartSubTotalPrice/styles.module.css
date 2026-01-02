@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container:last-child {
+  margin-top: 15px;
+}
+
+.container span {
+  display: block;
+  font-size: 17px;
+  font-weight: bold;
+}

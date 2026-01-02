@@ -1,0 +1,27 @@
+.productSkeleton {
+  width: 180px;
+  height: 352px;
+}
+.productImgSkeleton {
+  width: 100%;
+  height: 225px;
+}
+.productTitleSkeleton {
+  width: 100%;
+  height: 20px;
+  margin: 10px 0;
+}
+.productPriceSkeleton {
+  width: 100%;
+  height: 16px;
+  margin-bottom: 10px;
+}
+.maximumNoticeSkeleton {
+  width: 100%;
+  height: 18px;
+  margin-bottom: 10px;
+}
+.addToCartBtnSkeleton {
+  width: 100%;
+  height: 37px;
+}

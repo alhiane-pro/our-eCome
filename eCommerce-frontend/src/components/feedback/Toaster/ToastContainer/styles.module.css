@@ -1,0 +1,53 @@
+.toastContainer {
+  position: fixed;
+  z-index: 999;
+  max-width: calc(100% - 2rem);
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+}
+
+.position-top-right {
+  top: 1rem;
+  right: 1rem;
+}
+
+.position-right-center {
+  top: 50%;
+  right: 1rem;
+  transform: translateY(-50%);
+}
+
+.position-bottom-right {
+  bottom: 1rem;
+  right: 1rem;
+}
+
+.position-bottom-center {
+  left: 50%;
+  bottom: 1rem;
+  transform: translateX(-50%);
+}
+
+.position-bottom-left {
+  bottom: 1rem;
+  left: 1rem;
+}
+
+.position-left-center {
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.position-top-left {
+  top: 1rem;
+  left: 1rem;
+}
+
+.position-top-center {
+  left: 50%;
+  top: 1rem;
+  transform: translateX(-50%);
+}

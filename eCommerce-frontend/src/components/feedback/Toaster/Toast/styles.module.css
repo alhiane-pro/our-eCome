@@ -1,0 +1,29 @@
+.toast {
+  position: relative;
+  overflow: hidden;
+}
+
+.toast h5 {
+  font-size: 16px;
+  text-transform: capitalize;
+}
+
+.toast p {
+  font-size: 15px;
+  margin-bottom: 0;
+}
+
+.toast button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 7px;
+  height: 7px;
+}
+
+.toast span {
+  position: absolute;
+  min-height: 4px;
+  bottom: 0;
+  left: 0;
+}
