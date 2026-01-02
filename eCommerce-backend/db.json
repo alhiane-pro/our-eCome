@@ -1,13 +1,5 @@
 {
-  "users": [
-    {
-      "email": "alhiane.pro@gmail.com",
-      "password": "$2a$10$E6w04mVSxKDwvf./K7wJ7uckNgKRmquMnJY8sLZq3mNKAsLTV6bqe",
-      "firstName": "Lahcen",
-      "lastName": "Alhiane",
-      "id": 1
-    }
-  ],
+  "users": [],
   "categories": [
     {
       "id": 1,
@@ -107,34 +99,5 @@
     }
   ],
   "wishlist": [],
-  "orders": [
-    {
-      "userId": 1,
-      "subTotal": 1647,
-      "orderItems": [
-        {
-          "id": 1,
-          "title": "Jersey top",
-          "img": "http://localhost:5173/products/men/jersey-top.avif",
-          "price": 249,
-          "quantity": 3
-        },
-        {
-          "id": 5,
-          "title": "Sweatshirt shorts",
-          "img": "http://localhost:5173/products/women/sweatshirt-shorts.avif",
-          "price": 300,
-          "quantity": 2
-        },
-        {
-          "id": 6,
-          "title": "Velour top",
-          "img": "http://localhost:5173/products/kids/velour-top.avif",
-          "price": 300,
-          "quantity": 1
-        }
-      ],
-      "id": 1
-    }
-  ]
+  "orders": []
 }
