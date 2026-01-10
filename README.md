@@ -6,6 +6,10 @@ A modern, type-safe eCommerce platform built with **React 19**, **TypeScript**, 
 
 ## 📸 Project Preview
 
+Demo: [our-eCome](https://youtu.be/AUE1x7ksMIE?si=GoZNW7vLKaKoQNl4)
+
+---
+
 [![Project Preview](https://github.com/alhiane-pro/our-eCome/blob/main/eCommerce-03.png)](https://youtu.be/AUE1x7ksMIE?si=VRo3wQqh7A9bSK1Z)
 
 ---
