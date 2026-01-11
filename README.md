@@ -1,8 +1,8 @@
 # 🛒 OurEcom - High-Performance Full-Stack eCommerce App
 
-A modern, type-safe eCommerce platform built with **React 19**, **TypeScript**, and **Redux Toolkit**. This project demonstrates a complete shopping flow, from category browsing to stock-aware cart management and user authentication.
-
 [![Project Preview](https://github.com/alhiane-pro/our-eCome/blob/main/thumbnail.png)](https://youtu.be/AUE1x7ksMIE?si=VRo3wQqh7A9bSK1Z)
+
+A modern, type-safe eCommerce platform built with **React 19**, **TypeScript**, and **Redux Toolkit**. This project demonstrates a complete shopping flow, from category browsing to stock-aware cart management and user authentication.
 
 ---
 
