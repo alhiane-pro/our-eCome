@@ -1,20 +1,8 @@
-# 🛒 OurEcom - [Project Demo](https://youtu.be/AUE1x7ksMIE?si=GoZNW7vLKaKoQNl4)
+# 🛒 OurEcom - High-Performance Full-Stack eCommerce App
 
 A modern, type-safe eCommerce platform built with **React 19**, **TypeScript**, and **Redux Toolkit**. This project demonstrates a complete shopping flow, from category browsing to stock-aware cart management and user authentication.
 
----
-
-## 📸 Project Preview
-
-[![Project Preview](https://github.com/alhiane-pro/our-eCome/blob/main/eCommerce-03.png)](https://youtu.be/AUE1x7ksMIE?si=VRo3wQqh7A9bSK1Z)
-
----
-
-[![Project Preview](https://github.com/alhiane-pro/our-eCome/blob/main/eCommerce-02.png)](https://youtu.be/AUE1x7ksMIE?si=VRo3wQqh7A9bSK1Z)
-
----
-
-[![Project Preview](https://github.com/alhiane-pro/our-eCome/blob/main/eCommerce-01.png)](https://youtu.be/AUE1x7ksMIE?si=VRo3wQqh7A9bSK1Z)
+[![Project Preview](https://github.com/alhiane-pro/our-eCome/blob/main/thumbnail.png)](https://youtu.be/AUE1x7ksMIE?si=VRo3wQqh7A9bSK1Z)
 
 ---
 
@@ -122,6 +110,13 @@ To run the linter:
 npm run lint
 ```
 
-## 👨‍💻 Author
+---
 
-Lahcen Alhiane - [GitHub](https://github.com/alhiane-pro) - [LinkedIn](https://www.linkedin.com/in/lahcen-alhiane-61217239a/)
+## 👥 Contact
+
+✅ Developed with ♥ by **Lahcen Alhiane** | A Frontend Engineer & Co-founder (Freelance) — OnePiece Coding
+
+👉 GitHub: [https://github.com/alhiane-pro](https://github.com/alhiane-pro)
+
+👉 LinkedIn: [https://www.linkedin.com/in/lahcen-alhiane-61217239a/](https://www.linkedin.com/in/lahcen-alhiane-61217239a/)
+
