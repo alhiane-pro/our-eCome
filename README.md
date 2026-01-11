@@ -1,4 +1,4 @@
-# 🛒 OurEcom - High-Performance Full-Stack eCommerce App
+# 🛒 OurEcom - High-Performance Full-Stack SPA
 
 [![Project Preview](https://github.com/alhiane-pro/our-eCome/blob/main/thumbnail.png)](https://youtu.be/AUE1x7ksMIE?si=VRo3wQqh7A9bSK1Z)
 
