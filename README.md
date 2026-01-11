@@ -1,14 +1,10 @@
-# 🛒 OurEcom - Full-Stack eCommerce Application
+# 🛒 OurEcom - [Project Demo](https://youtu.be/AUE1x7ksMIE?si=GoZNW7vLKaKoQNl4)
 
 A modern, type-safe eCommerce platform built with **React 19**, **TypeScript**, and **Redux Toolkit**. This project demonstrates a complete shopping flow, from category browsing to stock-aware cart management and user authentication.
 
 ---
 
 ## 📸 Project Preview
-
-Demo: [our-eCome](https://youtu.be/AUE1x7ksMIE?si=GoZNW7vLKaKoQNl4)
-
----
 
 [![Project Preview](https://github.com/alhiane-pro/our-eCome/blob/main/eCommerce-03.png)](https://youtu.be/AUE1x7ksMIE?si=VRo3wQqh7A9bSK1Z)
 
